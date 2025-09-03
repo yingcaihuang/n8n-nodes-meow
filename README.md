@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 这是一个用于 n8n 的自定义节点，可以通过 MeoW API 发送通知消息。
-
+MeoW 是华为纯血鸿蒙中的一个推送通知的应用，功能类似于iOS中的 Bark 应用，通过这个应用，可以把信息通知 及时通知到注册到平台中设备 或好友设备
 ## 功能特性
 
 - ✅ 支持发送文本和 HTML 格式的消息
