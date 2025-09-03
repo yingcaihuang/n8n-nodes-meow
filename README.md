@@ -124,7 +124,19 @@ npm install n8n-nodes-meow
 
 ## 版本历史
 
-### v0.1.3 (最新)
+### v0.1.5 (最新)
+
+- 🔧 更新仓库地址为正确的 GitHub 仓库
+- 👤 更新作者信息和联系方式
+- 📝 修复文档中的链接地址
+
+### v0.1.4
+
+- 📸 添加界面截图，包含凭据配置和节点使用示例
+- 📦 图片文件现在包含在 NPM 包中
+- 📝 完善使用说明和配置技巧
+
+### v0.1.3
 
 - ✨ 优化参数显示顺序，消息类型现在显示在消息内容之前
 - 📝 更新文档，添加界面截图和使用说明
@@ -186,4 +198,4 @@ MIT
 
 ## 支持
 
-如果遇到问题或有功能建议，请在 [GitHub Issues](https://github.com/yourusername/n8n-nodes-meow/issues) 中创建 issue。
+如果遇到问题或有功能建议，请在 [GitHub Issues](https://github.com/yingcaihuang/n8n-nodes-meow/issues) 中创建 issue。

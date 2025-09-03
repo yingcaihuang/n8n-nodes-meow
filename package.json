@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-meow",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "n8n node for sending notifications via MeoW API",
   "keywords": [
     "n8n",
@@ -12,17 +12,17 @@
     "api"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/yourusername/n8n-nodes-meow#readme",
+  "homepage": "https://github.com/yingcaihuang/n8n-nodes-meow#readme",
   "author": {
-    "name": "Your Name",
-    "email": "your.email@example.com"
+    "name": "yingcaihuang",
+    "email": "b13621367396@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/n8n-nodes-meow.git"
+    "url": "git+https://github.com/yingcaihuang/n8n-nodes-meow.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/n8n-nodes-meow/issues"
+    "url": "https://github.com/yingcaihuang/n8n-nodes-meow/issues"
   },
   "main": "index.js",
   "scripts": {
